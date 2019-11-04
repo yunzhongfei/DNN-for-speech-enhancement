@@ -1,3 +1,5 @@
+https://cloud.tencent.com/developer/news/16443 。    基于深度学习的语音增强-极简源代码
+
 This code is only for research. If you want to use it for commercial reason, please contact me: yong.xu.ustc@gmail.com
 
 GPU code for Deep neural network (DNN) based speech enhancement
